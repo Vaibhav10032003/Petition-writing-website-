@@ -1,16 +1,6 @@
 
 let form = document.querySelector('#form');
 
-// var firebaseConfig = {
-//     apiKey: "AIzaSyAGgArEP2NNihvz23ySaiSkWMP41cTLLF8",
-//     authDomain: "petition-writing-d721a.firebaseapp.com",
-//     projectId: "petition-writing-d721a",
-//     storageBucket: "petition-writing-d721a.appspot.com",
-//     messagingSenderId: "894261164997",
-//     appId: "1:894261164997:web:bcc48aefeb5cf9aa63e9ac",
-//     measurementId: "G-L94WB06DF5"
-// };
-
 var firebaseConfig = {
     apiKey: "AIzaSyDrI1ZavBFDtjDFpt_cEqUCmnFMJl1qUSo",
     authDomain: "fir-eb48f.firebaseapp.com",
